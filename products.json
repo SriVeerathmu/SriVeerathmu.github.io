@@ -59,7 +59,39 @@
         "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp"
-    }
+    },
+    {
+    "id": 51,
+    "title": "Paneer Soup",
+    "description": "Warm and flavorful paneer soup prepared with soft paneer, vegetables and aromatic seasonings.",
+    "category": "soup",
+    "price": 80,
+    "discountPercentage": 0,
+    "rating": 4.5,
+    "stock": 50,
+    "tags": ["paneer", "soup", "vegetarian"],
+    "sku": "SOU-PAN-051",
+    "weight": 300,
+    "dimensions": {
+      "width": 12,
+      "height": 8,
+      "depth": 12
+    },
+    "warrantyInformation": "Not applicable",
+    "shippingInformation": "Prepared fresh on order",
+    "availabilityStatus": "In Stock",
+    "reviews": [],
+    "returnPolicy": "No return policy",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2026-10-06T00:00:00.000Z",
+      "updatedAt": "2026-10-06T00:00:00.000Z",
+      "barcode": "8900000000051",
+      "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+    },
+    "images": [],
+    "thumbnail": ""
+  }
    
    
   ],
