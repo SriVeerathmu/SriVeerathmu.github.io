@@ -1,7 +1,6 @@
 {
   "products": [
-   
-    [
+
   {
     "id": 31,
     "title": "Chicken 65",
@@ -13,7 +12,7 @@
     "stock": 50,
     "availabilityStatus": "In Stock",
     "minimumOrderQuantity": 1,
-    "thumbnail": ""
+    "thumbnail": "https://aromaticessence.co/wp-content/uploads/2017/06/IMG_0609.jpg"
   },
   {
     "id": 32,
@@ -26,7 +25,7 @@
     "stock": 50,
     "availabilityStatus": "In Stock",
     "minimumOrderQuantity": 1,
-    "thumbnail": ""
+    "thumbnail": "https://i.ytimg.com/vi/TwrsUrYiRsA/maxresdefault.jpg"
   },
 
   {
@@ -40,7 +39,7 @@
     "stock": 50,
     "availabilityStatus": "In Stock",
     "minimumOrderQuantity": 1,
-    "thumbnail": ""
+    "thumbnail": "https://www.cookingclassy.com/wp-content/uploads/2023/09/chicken-corn-soup-02.jpg"
   },
   {
     "id": 48,
@@ -53,7 +52,7 @@
     "stock": 50,
     "availabilityStatus": "In Stock",
     "minimumOrderQuantity": 1,
-    "thumbnail": ""
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRnceIRmR2vDWDK4jhwEzzQF31hQb2QK0QetAp1bn_wTpF3kH1mtvqD0h&s=10"
   },
 
   {
@@ -890,7 +889,7 @@
     "minimumOrderQuantity": 1,
     "thumbnail": ""
   }
-]
+
    
    
   ],
